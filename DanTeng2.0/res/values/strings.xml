@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">十张蛋疼图</string>
+    <string name="main_home">主页</string>
+    <string name="main_post">审帖</string>
+    <string name="mian_rank">排行</string>
+    <string name="main_submit">个人信息</string>
+    <string name="main_more">更多</string>
+    <string name="home_content">这是主界面</string>
+    <string name="post_content">这是投稿页面</string>
+</resources>
